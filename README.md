@@ -1,6 +1,4 @@
-# SDP-Study1
+# ATX-visionOS
 
 A port of my Reveal project which was originally built for the Meta Quest 3, which you can find out more about here:
 https://enricoarapi.com/projects/atx-motherboard
-
-All code is free to be reused and adapted :)
